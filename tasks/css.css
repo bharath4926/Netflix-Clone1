@@ -1,0 +1,54 @@
+h2{
+    font-family: "press start 2p",'Courier New', Courier, monospace;
+    font-size: large;
+    color: brown;
+    background-color: lightslategray;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: black;
+    border: 10px;
+    border-color: white;
+    font-style: italic;
+    font-weight: bold;
+    border-style: double;
+    background-image: url("nature.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#p1{
+    color: antiquewhite;
+    background-color: darkorchid;
+    text-decoration:  dotted underline;
+}
+#p2{
+    color: beige;
+    background-color: darkgoldenrod;
+    text-decoration:  dotted underline;
+}
+#p3{
+    color: antiquewhite;
+    background-color: rgb(20, 27, 211);
+    text-decoration:  dotted underline;
+}
+#p4{
+    color: antiquewhite;
+    background-color: rgb(232, 11, 166);
+    text-decoration:  dotted underline;
+}
+#p5{
+    color: antiquewhite;
+    background-color: rgb(21, 190, 209);
+    text-decoration:  dotted underline;
+}
+#p6{
+    color: antiquewhite;
+    background-color: rgb(19, 229, 12);
+    text-decoration:  dotted underline;
+}
+.head{
+    color: aquamarine;
+}

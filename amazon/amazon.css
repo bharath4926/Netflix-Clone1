@@ -1,0 +1,69 @@
+.navbar{
+    color: black;
+    background-color: bisque;
+    justify-content: space-between;
+    padding: 20px;
+    display: flex;
+    width: 100%;
+}
+.nav-options{
+    align-content: space-between;
+    align-items: flex-start;
+    display: flex;
+}
+.logo{
+    color: red;
+    font-display: bold;
+    text-align: start;
+}
+.p1{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+.hero-banner{
+    align-items: center; 
+    text-align: center;
+    background-color:cadetblue;
+}
+.img1{
+    height: 150px;
+    width: 100px;
+}
+.img2{
+    height: 50px;
+    width: 50px;
+}
+ul{
+    display: flex;
+    padding: 20px;
+    list-style: none;
+}
+.sections{
+    display: flex;
+}
+.box{
+    border: 2px solid;
+    padding: 2px;
+    align-items: center;
+    border-radius: 5px;
+    background-color: white;
+}
+.navelements{
+
+    max-width: 400px;
+
+}
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+input{
+    width: 400px;
+    
+   
+}
+
+
